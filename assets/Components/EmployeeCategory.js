@@ -1,0 +1,1 @@
+export const employeeCategory = (id)=> id == 1?'Admin':'User'
